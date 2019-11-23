@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">AlarmScheduler</string>
+	<string name="alarm_text">Alarm</string>
+	<string name="cancel_text">Cancel Alarm</string>
+</resources>
